@@ -1,6 +1,6 @@
 # Parser script
 
-This repository contains a parsing script designed to extract certain data (namely links and titles) from various sources (specifically olx.ua; work.ua; rabota.ua). The parser script is written in Python and is ideal for tasks such as web page parsing, searching and retrieving information.
+This repository contains a parsing script designed to extract certain data (links and titles) from various sources (specifically olx.ua; work.ua; rabota.ua). The parser script is written in Python and is ideal for tasks such as web page parsing, searching and retrieving information.
 
 ## Functions
 
@@ -11,6 +11,8 @@ This repository contains a parsing script designed to extract certain data (name
 ## Installation
 
 To use the parser script, simply clone this repository to your local computer:
+
+
 
 git clone https://github.com/yourusername/parser-script.git
 
