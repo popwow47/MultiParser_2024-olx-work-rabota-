@@ -6,7 +6,7 @@ This repository contains a parsing script designed to extract certain data (link
 
 - Reliability: Error handling mechanisms are built in to ensure uninterrupted operation even when unexpected data formats or server responses occur.
 
-- Performance: Optimized for speed and efficiency to quickly process large volumes of data. Based on the **aiohttp** and **_asyncio_** asynchronous modules
+- Performance: Optimized for speed and efficiency to quickly process large volumes of data. Based on the **_aiohttp_** and **_asyncio_** asynchronous modules
 
 ## Installation
 
