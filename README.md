@@ -30,11 +30,14 @@ Make sure you have a dependency e.g. Python is installed on your system.
   2. Select the checkbox, indicating the source (site listed) from which you want to extract data
      ![Image alt](https://github.com/popwow47/MultiParser_2024-olx-work-rabota-/blob/main/screenshots/Screenshot_1.png)
   
-  4. Enter the query you are interested in in the input field
+  3. Enter the query you are interested in in the input field
+      ![Image alt](https://github.com/popwow47/MultiParser_2024-olx-work-rabota-/blob/main/screenshots/Screenshot_2.png)
   
-  5. Click on the “Parse” button
+  4. Click on the “Parse” button
+      ![Image alt](https://github.com/popwow47/MultiParser_2024-olx-work-rabota-/blob/main/screenshots/Screenshot_3.png)
   
-  6. The analyzed data will be displayed at the bottom of the program window
+  5. The analyzed data will be displayed at the bottom of the program window
+      ![Image alt](https://github.com/popwow47/MultiParser_2024-olx-work-rabota-/blob/main/screenshots/Screenshot_4.png)
 
 ## Example
 
