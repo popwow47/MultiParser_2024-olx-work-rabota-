@@ -23,7 +23,7 @@ Make sure you have a dependency e.g. Python is installed on your system.
 
 
 ## Usage
-  # Windows
+  ### Windows
 
   1. Run the parser executable file parser.exe:
   
