@@ -17,7 +17,7 @@ To use the parser script, simply clone this repository to your local computer:
 git clone https://github.com/yourusername/parser-script.git
 
 
-Make sure you have a dependency e.g. Python is installed on your system.
+
 
 
 
