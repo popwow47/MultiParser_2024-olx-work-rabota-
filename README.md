@@ -28,6 +28,7 @@ Make sure you have a dependency e.g. Python is installed on your system.
   1. Run the parser executable file parser.exe:
   
   2. Select the checkbox, indicating the source (site listed) from which you want to extract data
+     ![Image alt](https://github.com/popwow47/MultiParser_2024-olx-work-rabota-/blob/main/screenshots/Screenshot_1.png)
   
   4. Enter the query you are interested in in the input field
   
