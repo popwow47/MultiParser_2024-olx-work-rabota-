@@ -39,8 +39,4 @@ git clone https://github.com/yourusername/parser-script.git
   5. The analyzed data will be displayed at the bottom of the program window
       ![Image alt](https://github.com/popwow47/MultiParser_2024-olx-work-rabota-/blob/main/screenshots/Screenshot_4.png)
 
-## Example
 
-To better understand how the parser script works, here is an example:
-
-# Example code snippet here
