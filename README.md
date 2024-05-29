@@ -17,7 +17,9 @@ To use the parser script, simply clone this repository to your local computer:
 [git clone https://github.com/yourusername/parser-script.git](https://github.com/popwow47/MultiParser_2024-olx-work-rabota-.git)
 
 
-[git clone https://github.com/yourusername/parser-script.git]
+git clone https://github.com/yourusername/parser-script.git
+
+alias ~~~=":<<'~~~sh'";:<<'~~~sh'
 
 
 ## Usage
