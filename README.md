@@ -22,7 +22,7 @@ git clone https://github.com/popwow47/MultiParser_2024-olx-work-rabota-.git
 ## Usage
   #### Windows
 
-  1. Run the parser executable file parser.exe:
+  1. Run the parser executable file **parser.exe**
   
   2. Select the checkbox, indicating the source (site listed) from which you want to extract data
      ![Image alt](https://github.com/popwow47/MultiParser_2024-olx-work-rabota-/blob/main/screenshots/Screenshot_1.png)
